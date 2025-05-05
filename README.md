@@ -1,0 +1,1 @@
+Job Portal is a website where users could create accounts and apply for jobs. The backend was built using PHP, and I have used a XAMPP server to manage and store user data securely. This project gave me a practical understanding of server-side logic, database integration, and the importance of reliable backend systems in supporting interactive web platforms.
